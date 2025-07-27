@@ -8,24 +8,26 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Jing Hui Wong
+  tagline: Data Scientist
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: jinghui.me@gmail.com
+  phone:
+  timezone: Singapore # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: jinghuiwong
+  xing:
+  github: Jhwong19
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  credly: jing-hui-wong
+  kaggle: jinghuiwong
+  bluesky:
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,247 +42,117 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: Chinese
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Artificial Intelligence
       link:
 
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
+    - item: Cloud Platforms
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Data Scientist specializing in the Mining & Energy industry, using AI, advanced analytics, and cloud technologies to transform data into actionable insights that drive operational efficiency. I build end-to-end solutions that bridge technical complexity and business value, helping organizations achieve sustainable growth in today's data-driven world.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MSc in Computing
+    university: National University of Singapore
+    time: 2020 - 2022
+    grade: 4.6/5.0
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Awards & Honors
+        - Singapore Digital (SG:D) Postgraduate Scholar 
+      Modules:
+        - CS5242 Neural Networks and Deep Learning
+        - CS5340 Uncertainty in Artificial Intelligence
+        - CS5228 Knowledge Discovery and Data Mining
+        - CS5446 AI Planning and Decision Making
+        - IS5152 Data-driven Decision Making
+        - IS5126 Hands-on with Applied Analytics
+
+  - degree: BSc in Statistics
+    university: Nanyang Technological University
+    time: 2015 - 2019
+    grade: 4.88/5.0 (First Class Honours)
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Awards & Honors
+        - NTU President Research Scholar
+        - Dean's List
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Data Scientist
+    time: 2020 - Present
+    company: Commercial Analytics, BHP
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Developed a real-time vessel scheduling system that increased iron ore sales by 18M tonnes annually ($900M value) through optimized fleet allocation and inventory management.
+        - Developed end-to-end LLM workflows that automated complex assay data extraction and contract reconciliation, eliminating 600+ hours of manual effort annually and delivering $2.5M in recoverable revenue.
+        - Deployed LLM models on AWS SageMaker that successfully classified $2.7B of off-contract spend data, reducing procurement compliance risks by 35% and enabling targeted contract negotiations.
+        - Led Snowflake platform optimization for 200+ Commercial users, achieving 50% reduction in compute costs while establishing robust data governance protocols and automated CI/CD pipelines.
+        - Supported technical migration from IBM CP4D to AWS cloud platform, implementing enterprise-grade security frameworks that enabled 15+ analytics workstreams and reduced infrastructure costs by 40%.
 
+  - role: Technology Graduate
+    time: 2020 - 2020
+    company: BHP
+    details: |
+      Rotational program focused on developing technical and analytical skills across BHP's technology operations:
+        - Engineered comprehensive Spotfire dashboards for the Maritime Process and Operations team, automating real-time reporting of key metrics including Contract Errors, Open Voyages, and Laytime settlements, reducing reporting time by 75%.
+        - Developed Python packages for anomaly detection of equipment failure using advanced ML techniques (autoencoder + LSTM, one-class SVM) and automated dust data collection from multiple sources including APIs, FTP servers, and SQL databases.
+        - Generated actionable data insights for the Driver Safety System monitoring vehicles and equipment across mine sites, improving safety compliance tracking and operational risk management.
+        - Implemented process improvements for 3rd Party Logistics supply chain that increased stock accuracy across 16 BHP warehouses through SAP system enhancements, redesigned labeling protocols and optimized packing processes.
+
+
+
+  - role: Active Lead, The Singapore Community (TSC)
+    time: 2019 - Present
+    company: Co-curricular Activities, BHP
+    details: |
+      Led company-wide engagement initiatives through The Singapore Community (TSC), fostering employee morale and workplace culture across BHP's Singapore office of 250+ employees.
+            
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  - name: AWS Certified Solutions Architect
+    organization: AWS
+    credentialid: 857afa96-c59a-4a4c-b090-126b3db04d73
+    credentialurl: https://www.credly.com/earner/earned/badge/857afa96-c59a-4a4c-b090-126b3db04d73
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  - name: AWS Certified Machine Learning - Specialty
+    organization: AWS
+    credentialid: f3443e46-6160-4708-b97c-2d0e5729f8a0
+    credentialurl: https://www.credly.com/earner/earned/badge/f3443e46-6160-4708-b97c-2d0e5729f8a0
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  - name: SnowPro Core Certification
+    organization: Snowflake
+    credentialid: 3909424d-7e2a-4273-a5ce-9525436383e3
+    credentialurl: https://www.credly.com/earner/earned/badge/3909424d-7e2a-4273-a5ce-9525436383e3
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: Python
     level: 95%
 
-  - name: Ruby on Rails
+  - name: SQL
+    level: 95%
+  
+  - name: Artificial Intelligence
+    level: 95%
+
+  - name: Snowflake
+    level: 90%
+
+  - name: AWS
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  - name: Microsoft Services (Power BI, Power Apps, Power Automate)
+    level: 80%
