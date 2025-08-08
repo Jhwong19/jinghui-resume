@@ -17,7 +17,7 @@ sidebar:
   phone:
   timezone: Singapore # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: https://www.jinghuiwong.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: jinghuiwong
   xing:
   github: Jhwong19
@@ -58,7 +58,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Data Scientist specializing in the Mining & Energy industry, using AI, advanced analytics, and cloud technologies to transform data into actionable insights that drive operational efficiency. I build end-to-end solutions that bridge technical complexity and business value, helping organizations achieve sustainable growth in today's data-driven world.
+    Data Scientist with deep experience in the Mining sector, delivering AI and machine learning solutions that optimize production workflows, enhance commodity sales, and improve safety outcomes. Skilled in designing and deploying scalable ML solutions with MLOps best practices. Recent projects include a vessel scheduling optimization system and NLP applications with LLM workflows. Outside of work, I experiment with creative AI projects and enjoy cooking and running.
 education:
   title: Education
   info:
