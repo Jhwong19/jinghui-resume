@@ -93,12 +93,12 @@ experiences:
     time: 2020 - Present
     company: Commercial Analytics, BHP
     details: |
-        - Developed a real-time vessel scheduling system that increased iron ore sales by 18M tonnes annually ($900M value) through optimized fleet allocation and inventory management.
-        - Developed end-to-end LLM workflows that automated complex assay data extraction and contract reconciliation, eliminating 600+ hours of manual effort annually and delivering $2.5M in recoverable revenue.
+        - Developed and maintained a real-time vessel scheduling system that increased iron ore sales by 18M tonnes annually ($900M value) through optimized fleet allocation and inventory management.
+        - Developed and maintained end-to-end LLM workflows that automated complex assay data extraction and contract reconciliation, eliminating 600+ hours of manual effort annually and delivering $2.5M in recoverable revenue.
         - Deployed LLM models on AWS SageMaker that successfully classified $2.7B of off-contract spend data, reducing procurement compliance risks by 35% and enabling targeted contract negotiations.
         - Led Snowflake platform optimization for 200+ Commercial users, achieving 50% reduction in compute costs while establishing robust data governance protocols and automated CI/CD pipelines.
         - Supported technical migration from IBM CP4D to AWS cloud platform, implementing enterprise-grade security frameworks that enabled 15+ analytics workstreams and reduced infrastructure costs by 40%.
-
+        - Provide L2 and L3 support for Commercial Analytics data products.
   - role: Technology Graduate
     time: 2019 - 2020
     company: BHP

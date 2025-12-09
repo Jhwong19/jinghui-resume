@@ -58,4 +58,28 @@
     .d-print-none {
         display: none !important;
     }
+
+  /* Fix truncation of year ranges in Experiences (and similar sections) */
+  .experiences-section .item .upper-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    overflow: visible;
+  }
+
+  .experiences-section .item .job-title {
+    flex: 0 0 70%;
+    max-width: 70%;
+  }
+
+  .experiences-section .item .time {
+    position: static;
+    right: auto;
+    top: auto;
+    flex: 0 0 auto;
+    white-space: nowrap;
+    overflow: visible;
+    text-overflow: clip;
+  }
+  
 }
